@@ -1,6 +1,6 @@
 # Hi, I'm Kacper 👋
 
-🎓 Master's student at TUM | Visiting Researcher @ MIT Senseable City Lab  
+🎓 Master's student at TUM | Visiting Student @ MIT Senseable City Lab  
 🌍 Interested in urban tech, sustainability & data-driven design  
 💻 Passionate about civic tech, AI, and computational design
 
